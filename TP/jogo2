@@ -1,0 +1,217 @@
+Sucessões do Tabuleiro: 
+
+   G      _      _   
+   _      _      _   
+   _      _      _   
+
+
+   G      _      _   
+   _      _      _   
+   _      _      G   
+
+
+   G      _      _   
+   _      _      _   
+   _      _      G   
+   _      _      _   
+
+
+   G      _      _   
+   _      _      _   
+   _      _      G   
+   _      _      G   
+
+
+   G      _      _      _   
+   _      _      _      _   
+   _      _      G      _   
+   _      _      G      _   
+
+
+   Y      _      _      _   
+   _      _      _      _   
+   _      _      G      _   
+   _      _      G      _   
+
+
+   Y      _      _      _   
+   _      _      _      _   
+   _      O      G      _   
+   _      _      G      _   
+
+
+   Y      _      _      _   
+   _      _      _      _   
+   _      O      G      _   
+   _      _      G      G   
+
+
+   Y      _      _      G   
+   _      _      _      _   
+   _      O      G      _   
+   _      _      G      G   
+
+
+   Y      _      _      G   
+   _      _      O      _   
+   _      O      G      _   
+   _      _      G      G   
+
+
+   Y      _      _      G   
+   _      _      O      _   
+   _      O      G      _   
+   G      _      G      G   
+
+
+   Y      _      _      G   
+   _      _      O      _   
+   _      O      G      _   
+   G      _      G      G   
+   _      _      _      _   
+
+
+   Y      _      _      G   
+   _      _      O      _   
+   _      O      G      _   
+   G      _      G      G   
+   _      _      _      G   
+
+
+   Y      _      _      G      _   
+   _      _      O      _      _   
+   _      O      G      _      _   
+   G      _      G      G      _   
+   _      _      _      G      _   
+
+
+   Y      _      _      G      _   
+   _      _      O      _      _   
+   _      O      G      _      _   
+   G      _      G      G      _   
+   _      _      _      G      G   
+
+
+   Y      _      _      G      _   
+   _      _      O      _      _   
+   _      O      G      _      _   
+   G      _      G      G      _   
+   G      _      _      G      G   
+
+
+   Y      _      _      G      G   
+   _      _      O      _      _   
+   _      O      G      _      _   
+   G      _      G      G      _   
+   G      _      _      G      G   
+
+
+   Y      _      _      G      G   
+   _      _      O      _      _   
+   _      O      G      _      _   
+   G      G      G      G      _   
+   G      _      _      G      G   
+
+
+   Y      _      _      G      G   
+   _      _      O      G      _   
+   _      O      G      _      _   
+   G      G      G      G      _   
+   G      _      _      G      G   
+
+
+
+Jogada: 1 || Jogador: A
+Colocou uma peca verde
+Jogou na linha 0 e na coluna 0
+
+
+Jogada: 2 || Jogador: B
+Colocou uma peca verde
+Jogou na linha 2 e na coluna 2
+
+
+Jogada: 3 || Jogador: A
+Acrescentou uma linha
+Jogou na linha 0 e na coluna 0
+
+
+Jogada: 4 || Jogador: B
+Colocou uma peca verde
+Jogou na linha 3 e na coluna 2
+
+
+Jogada: 5 || Jogador: A
+Acrescentou uma coluna
+Jogou na linha 0 e na coluna 0
+
+
+Jogada: 6 || Jogador: B
+Trocou uma peca verde por uma amarela
+Jogou na linha 0 e na coluna 0
+
+
+Jogada: 7 || Jogador: A
+Colocou uma pedra
+Jogou na linha 2 e na coluna 1
+
+
+Jogada: 8 || Jogador: B
+Colocou uma peca verde
+Jogou na linha 3 e na coluna 3
+
+
+Jogada: 9 || Jogador: A
+Colocou uma peca verde
+Jogou na linha 0 e na coluna 3
+
+
+Jogada: 10 || Jogador: B
+Colocou uma pedra
+Jogou na linha 1 e na coluna 2
+
+
+Jogada: 11 || Jogador: A
+Colocou uma peca verde
+Jogou na linha 3 e na coluna 0
+
+
+Jogada: 12 || Jogador: B
+Acrescentou uma linha
+Jogou na linha 0 e na coluna 0
+
+
+Jogada: 13 || Jogador: A
+Colocou uma peca verde
+Jogou na linha 4 e na coluna 3
+
+
+Jogada: 14 || Jogador: B
+Acrescentou uma coluna
+Jogou na linha 0 e na coluna 0
+
+
+Jogada: 15 || Jogador: A
+Colocou uma peca verde
+Jogou na linha 4 e na coluna 4
+
+
+Jogada: 16 || Jogador: B
+Colocou uma peca verde
+Jogou na linha 4 e na coluna 0
+
+
+Jogada: 17 || Jogador: A
+Colocou uma peca verde
+Jogou na linha 0 e na coluna 4
+
+
+Jogada: 18 || Jogador: B
+Colocou uma peca verde
+Jogou na linha 3 e na coluna 1
+
+
+Jogada: 19 || Jogador: A
+Colocou uma peca verde
+Jogou na linha 1 e na coluna 3
+
